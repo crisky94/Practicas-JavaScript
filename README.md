@@ -12,7 +12,7 @@ taught by Juan Pablo de la Torre Valdez.
 
 ## PROJECTS DEMO
 
-[Proyecto-01 -- E-COMMERCE](http://127.0.0.1:5502/proyecto-01/index.html)
+[Proyecto-01 -- CURSOS EN LÍNEA](http://127.0.0.1:5502/proyecto-01/index.html)
 
 [Proyecto-02 -- EMAIL SUBMISSION FORM](http://127.0.0.1:5502/proyecto-02/index.html)
 
