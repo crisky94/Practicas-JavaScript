@@ -10,7 +10,7 @@ Learn the most popular Web Programming Language step by step,
 
 taught by Juan Pablo de la Torre Valdez.
 
-## PROJECTS
+## PROJECTS DEMO
 
 [Proyecto-01 -- E-COMMERCE](http://127.0.0.1:5502/proyecto-01/index.html)
 
