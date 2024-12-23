@@ -361,7 +361,9 @@ form {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .u-full-width {
   width: 100%;
-  box-sizing: border-box; }
+  box-sizing: border-box;
+  color: black;
+}
 .u-max-full-width {
   max-width: 100%;
   box-sizing: border-box; }
