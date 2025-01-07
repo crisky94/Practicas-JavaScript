@@ -10,13 +10,13 @@ Learn the most popular Web Programming Language step by step,
 
 taught by Juan Pablo de la Torre Valdez.
 
-## PROJECTS DEMO
+## PROJECTS
 
-[Proyecto-01 -- CURSOS EN LÍNEA](http://127.0.0.1:5502/proyecto-01/index.html)
+[Proyecto-01 -- CURSOS EN LÍNEA])
 
-[Proyecto-02 -- EMAIL SUBMISSION FORM](http://127.0.0.1:5502/proyecto-02/index.html)
+[Proyecto-02 -- EMAIL SUBMISSION FORM]
 
-[Proyecto-03 -- CARS SEARCH](http://127.0.0.1:5502/proyecto-03/index.html)
+[Proyecto-03 -- CARS SEARCH]
 
-[Proyecto-04 -- TWEETS](http://127.0.0.1:5502/proyecto-04/index.html)
+[Proyecto-04 -- TWEETS]
 
