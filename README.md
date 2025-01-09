@@ -16,7 +16,7 @@ taught by Juan Pablo de la Torre Valdez.
 
 [Proyecto-02 -- EMAIL SUBMISSION FORM](https://prismatic-kitten-8c522d.netlify.app/)
 
-[Proyecto-03 -- CARS SEARCH](https://app.netlify.com/sites/golden-cannoli-a63bf7/overview)
+[Proyecto-03 -- CARS SEARCH](https://golden-cannoli-a63bf7.netlify.app/)
 
 [Proyecto-04 -- TWEETS](https://merry-unicorn-a06f71.netlify.app/)
 
