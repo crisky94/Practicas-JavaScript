@@ -10,7 +10,7 @@ Learn the most popular Web Programming Language step by step,
 
 taught by Juan Pablo de la Torre Valdez.
 
-## DEMO PROJECTS
+## DEMO PROJECTS 💻
 
 [Proyecto-01 -- CURSOS EN LÍNEA](https://hilarious-twilight-f00489.netlify.app/)
 
