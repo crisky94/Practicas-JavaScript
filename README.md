@@ -24,5 +24,5 @@ taught by Juan Pablo de la Torre Valdez.
 
 [Proyecto-06 -- WEEKLY EXPENSES](https://sage-babka-dbeee1.netlify.app/)
 
-[Proyecto-07 -- Peterinario]([https://sage-babka-dbeee1.netlify.app/](https://peterinario.vercel.app/))
+[Proyecto-07 -- Peterinario](https://peterinario.vercel.app/)
 
