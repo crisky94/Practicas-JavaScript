@@ -12,7 +12,7 @@ taught by Juan Pablo de la Torre Valdez.
 
 ## DEMO PROJECTS 💻
 
-[Proyecto-01 -- CURSOS EN LÍNEA](https://hilarious-twilight-f00489.netlify.app/)
+[Proyecto-01 -- ONLINE COURSES](https://hilarious-twilight-f00489.netlify.app/)
 
 [Proyecto-02 -- EMAIL SUBMISSION FORM](https://prismatic-kitten-8c522d.netlify.app/)
 
@@ -25,4 +25,6 @@ taught by Juan Pablo de la Torre Valdez.
 [Proyecto-06 -- WEEKLY EXPENSES](https://sage-babka-dbeee1.netlify.app/)
 
 [Proyecto-07 -- Peterinario](https://peterinario.vercel.app/)
+
+[Proyecto-08 -- Customer Administrator](https://6808b79691133711ffde181d--inspiring-sorbet-d38d81.netlify.app/)
 
