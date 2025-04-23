@@ -1,3 +1,4 @@
+
 (function () {
     let DB;
 
@@ -8,14 +9,13 @@
 
         formulario.addEventListener('submit', validarCliente)
     })
-
     function conectarDB() {
         const abrirConexion = window.indexedDB.open('crm', 1);
-
+    
         abrirConexion.onerror = function () {
             imprimirAlerta('Hubo un error al crear el cliente', 'error')
         }
-
+    
         abrirConexion.onsuccess = function () {
             DB = abrirConexion.result;
         }
