@@ -26,5 +26,5 @@ taught by Juan Pablo de la Torre Valdez.
 
 [Proyecto-07 -- Peterinario](https://peterinario.vercel.app/)
 
-[Proyecto-08 -- Customer Administrator](https://6808b79691133711ffde181d--inspiring-sorbet-d38d81.netlify.app/)
+[Proyecto-08 -- Customer Administrator](https://costumeradministrator.netlify.app/)
 
